@@ -1,1 +1,1 @@
-console.log("Pancakes are better than waffles")
+console.log("Pancakes are considerably better than waffles");
