@@ -1,0 +1,1 @@
+console.log("Pancakes are better than waffles")
